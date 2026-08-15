@@ -13,6 +13,7 @@
                         <PropertyPath>OrderNo</PropertyPath>
                         <PropertyPath>OrderType</PropertyPath>
                         <PropertyPath>GrossAmt</PropertyPath>
+                        <PropertyPath>LastChangedby</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
